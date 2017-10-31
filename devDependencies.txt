@@ -1,0 +1,7 @@
+npm install -D webpack  开发依赖,只是打包时需要。代码执行时 并不依赖
+npm install -S jquery  依赖 (*** 代码执行时 需要依赖库)
+
+-D 全写为 --save--dev  开发依赖!
+-S 全写为 --save   依赖!
+
+install 可以简写为 i
